@@ -1,2 +1,3 @@
 # gauge-monitor-840783
-Service prototype
+
+Side project notes.
